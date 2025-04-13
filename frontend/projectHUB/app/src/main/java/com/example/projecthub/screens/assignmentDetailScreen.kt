@@ -138,7 +138,7 @@ fun assignmentDetailScreen(
                             onClick = { showBidDialog = true },
                             modifier = Modifier.fillMaxWidth()
                         ) {
-                            Text("Place Bid")
+                            Text("Make Bid")
                         }
                     }
                 }
